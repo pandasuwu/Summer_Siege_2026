@@ -86,8 +86,4 @@ Flag was sitting right there in the results.
 SSCTF{s3cur3_y0ur_qu3r13s_0r_g3t_1nj3ct3d}
 ```
 
----
 
-## Lesson
-
-Classic SQL injection — user input was never sanitized before being passed to the SQLite query. Always use parameterized queries.
